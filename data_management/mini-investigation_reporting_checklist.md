@@ -1,9 +1,9 @@
 # The Congruence Engine: mini-investigation reporting checklist
 ## V.0.1 | 11 October  2022
 ## Authors: Anna-Maria Sichani , Jamie Unwin, John Stack, Arran Rees 
-
+9
 ## This document is designed to help record the outcomes of the mini-investigations. You should record some standardised information that will help with planning, but please also feel free to write using narrative, self-reflection, images, and other media in the free-text description section at the end. 
-you can also downloaded from here
+You can also downloaded from [here](https://github.com/Congruence-Engine/documentation/blob/main/data_management/Mini-investigation_checklist.docx). 
 
 ### Title:
 ### investigator(s):
