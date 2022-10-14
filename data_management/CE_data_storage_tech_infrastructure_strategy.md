@@ -9,18 +9,19 @@ Goal of this document is to describe the overall Congruence Engine’s technical
 
 #### GitHub 
 A public version of the CE GitHub Repository will be used for all public project-generated  data/outputs, including 
-● datasets * 
-● prototypes’ code  
-● project’s public-facing documentation and reports (in line with the Publishing WG  guidelines, TBC) 
-● training material  
+1. datasets * 
+2. prototypes’ code  
+3. project’s public-facing documentation and reports (in line with the Publishing WG  guidelines, TBC) 
+4. training material  
 
 *Project partners’ datasets are normally shared with the project under open licences such as  CC0 - public domain data or CC-BY-SA (Attribution-Share Alike). Under these licences, data  can be further processed and openly published in our CE Github repo. Where the data  provider specifically claims a different copyright for their data, their dataset will remain in the  private Github repo. Licensing should be made clear for all datasets. 
 A private GitHub Repo will be used mainly for datasets that are without open licences and  for raw data from partners. 
-Amazon Web Services (AWS) 
-We do not plan to use this service in the first place , as this would require resources we do  not intend to invest in, but we consider it as an option if and when the data demands it (while  experimenting with ML).  
-SMG public-facing website 
-Project’s prototypes, data-related outputs and project-specific updates will be hosted in a  dedicated-SMG website https://www.sciencemuseumgroup.org.uk/project/the-congruence engine/ . This will be the central place for the project showcasing and communicating its  findings in an accessible way, following also TaNC- AHRC requirements for publicly accessible  outputs. 
 
+#### Amazon Web Services (AWS) 
+We do not plan to use this service in the first place , as this would require resources we do  not intend to invest in, but we consider it as an option if and when the data demands it (while  experimenting with ML).  
+
+#### SMG public-facing website 
+Project’s prototypes, data-related outputs and project-specific updates will be hosted in a  dedicated-SMG website https://www.sciencemuseumgroup.org.uk/project/the-congruence engine/ . This will be the central place for the project showcasing and communicating its  findings in an accessible way, following also TaNC- AHRC requirements for publicly accessible  outputs. 
 
 #### Zotero  
 A Zotero library has been set up, currently having a number of sub libraries, to store project’s  bibliography.  
