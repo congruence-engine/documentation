@@ -1,5 +1,5 @@
 # The Congruence Engine: technical infrastructure and data management  
-## V.0.3 | 11 October  2022
+## V.0.1 | August 2022
 ## Authors: Anna-Maria Sichani , Jamie Unwin, John Stack, Arran Rees 
 
 ## Overall Goal 
