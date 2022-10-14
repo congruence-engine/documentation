@@ -21,7 +21,7 @@ A private GitHub Repo will be used mainly for datasets that are without open lic
 We do not plan to use this service in the first place , as this would require resources we do  not intend to invest in, but we consider it as an option if and when the data demands it (while  experimenting with ML).  
 
 #### SMG public-facing website 
-Project’s prototypes, data-related outputs and project-specific updates will be hosted in a [dedicated-SMG website] (https://www.sciencemuseumgroup.org.uk/project/the-congruence-engine/). This will be the central place for the project showcasing and communicating its  findings in an accessible way, following also TaNC- AHRC requirements for publicly accessible  outputs. 
+Project’s prototypes, data-related outputs and project-specific updates will be hosted in a [dedicated-SMG website](https://www.sciencemuseumgroup.org.uk/project/the-congruence-engine/). This will be the central place for the project showcasing and communicating its  findings in an accessible way, following also TaNC- AHRC requirements for publicly accessible  outputs. 
 
 #### Zotero  
 A [Zotero library](https://www.zotero.org/groups/4576324/congruence_engine/library) has been set up, currently having a number of sub-libraries, to store project’s  bibliography.  
