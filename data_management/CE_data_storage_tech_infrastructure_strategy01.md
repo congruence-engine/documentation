@@ -1,4 +1,4 @@
-# The Congruence Engine: technical infrastructure and data management  
+# The Congruence Engine: technical infrastructure and data management strategy
 ## V.0.1 | August 2022
 ## Authors: Anna-Maria Sichani , Jamie Unwin, John Stack, Arran Rees 
 
