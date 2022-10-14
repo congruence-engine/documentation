@@ -10,12 +10,12 @@ You can also downloaded from [here](https://github.com/Congruence-Engine/documen
 ### Dates:
 
 ### Overall goals
-* Describe the thinking behind the mini-investigation and the aims of it.
+*Describe the thinking behind the mini-investigation and the aims of it.*
 
 
 
 ### Outcomes
-*Bullet point the main findings of the mini-investigation
+*Bullet point the main findings of the mini-investigation*
 
 
 
