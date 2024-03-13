@@ -29,10 +29,6 @@
 
 <!-- Provide the basic links for the dataset. -->
 
-- **Repository:** {{ repo | default("[More Information Needed]", true)}}
-- **Paper [optional]:** {{ paper | default("[More Information Needed]", true)}}
-- **Demo [optional]:** {{ demo | default("[More Information Needed]", true)}}
-
 ## Uses
 
 <!-- Address questions around how the dataset is intended to be used. -->
@@ -83,18 +79,6 @@
 
 <!-- If the dataset contains annotations which are not part of the initial data collection, use this section to describe them. -->
 
-#### Annotation process
-
-<!-- This section describes the annotation process such as annotation tools used in the process, the amount of data annotated, annotation guidelines provided to the annotators, interannotator statistics, annotation validation, etc. -->
-
-{{ annotation_process_section | default("[More Information Needed]", true)}}
-
-#### Who are the annotators?
-
-<!-- This section describes the people or systems who created the annotations. -->
-
-{{ who_are_annotators_section | default("[More Information Needed]", true)}}
-
 #### Personal and Sensitive Information
 
 <!-- State whether the dataset contains data that might be considered personal, sensitive, or private (e.g., data that reveals addresses, uniquely identifiable names or aliases, racial or ethnic origins, sexual orientations, religious beliefs, political opinions, financial or health data, etc.). If efforts were made to anonymize the data, describe the anonymization process. -->
@@ -116,20 +100,9 @@
 ## Citation [optional]
 
 <!-- If there is a paper or blog post introducing the dataset, the APA and Bibtex information for that should go in this section. -->
-
-**BibTeX:**
-
-{{ citation_bibtex | default("[More Information Needed]", true)}}
-
 **APA:**
 
 {{ citation_apa | default("[More Information Needed]", true)}}
-
-## Glossary [optional]
-
-<!-- If relevant, include terms and calculations in this section that can help readers understand the dataset or dataset card. -->
-
-{{ glossary | default("[More Information Needed]", true)}}
 
 ## More Information [optional]
 
