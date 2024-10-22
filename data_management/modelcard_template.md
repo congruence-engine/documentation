@@ -2,7 +2,7 @@
 # Inspired by HuggingFace ModelCards https://huggingface.co/docs/hub/en/model-cards
 # For reference on model card metadata, see the spec: https://github.com/huggingface/hub-docs/blob/main/modelcard.md?plain=1
 # Doc / guide: https://huggingface.co/docs/hub/model-cards
-{{ card_data }}
+
 ---
 
 # Model Card for {{ model_id | model name }}
@@ -125,11 +125,7 @@ Use the code below to get started with the model.
 
 Carbon emissions can be estimated using the [Machine Learning Impact calculator](https://mlco2.github.io/impact#compute) presented in [Lacoste et al. (2019)](https://arxiv.org/abs/1910.09700).
 
-- **Hardware Type:** {{ hardware_type | default("[More Information Needed]", true)}}
-- **Hours used:** {{ hours_used | default("[More Information Needed]", true)}}
-- **Cloud Provider:** {{ cloud_provider | default("[More Information Needed]", true)}}
-- **Compute Region:** {{ cloud_region | default("[More Information Needed]", true)}}
-- **Carbon Emitted:** {{ co2_emitted | default("[More Information Needed]", true)}}
+
 
 ## Technical Specifications [optional]
 
@@ -153,12 +149,10 @@ Carbon emissions can be estimated using the [Machine Learning Impact calculator]
 
 ## More Information [optional]
 
-{{ more_information | default("[More Information Needed]", true)}}
+
 
 ## Model Card Authors [optional]
 
-{{ model_card_authors | default("[More Information Needed]", true)}}
 
 ## Model Card Contact
 
-{{ model_card_contact | default("[More Information Needed]", true)}}
