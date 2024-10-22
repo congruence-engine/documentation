@@ -6,4 +6,4 @@ Here you can find documentation related to the data management aspect of the Con
 
 * Ensure your fill out the [mini-investigation reporting checklist](https://github.com/Congruence-Engine/documentation/blob/main/data_management/mini-investigation_reporting_checklist.md) as a feasibility step, before embarking on a mini-investigation
 
-* Make sure you fill out this [dataset documentation form](https://github.com/Congruence-Engine/documentation/blob/main/data_management/dataset_documentation_guidance.md) for any dataset you are using. 
+* Make sure you fill out this [dataset documentation form](https://github.com/Congruence-Engine/documentation/blob/main/data_management//dataset_documentation_v.0.3.md) for any dataset you are using. 
