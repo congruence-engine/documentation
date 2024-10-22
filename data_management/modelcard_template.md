@@ -5,10 +5,9 @@
 {{ card_data }}
 ---
 
-# Model Card for {{ model_id | default("Model ID", true) }}
+# Model Card for {{ model_id | model name }}
 
 <!-- Provide a quick summary of what the model is/does. -->
-
 
 
 ## Model Details
